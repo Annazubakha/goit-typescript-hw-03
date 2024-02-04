@@ -9,11 +9,7 @@ class Student {
     private name: string,
     private age: number,
     private grade: string
-  ) {
-    this.name = name;
-    this.age = age;
-    this.grade = grade;
-  }
+  ) {}
 }
 
 export {};
